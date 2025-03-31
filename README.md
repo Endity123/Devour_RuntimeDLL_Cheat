@@ -69,3 +69,5 @@ DevourCheatMonoInjector
 Game's last update before il2cpp :
 
 https://steamdb.info/depot/1274571/history/?changeid=M:1960656865974212833
+![image](https://github.com/user-attachments/assets/2c67fec4-309d-45f9-adb4-d33c17438ebe)
+
